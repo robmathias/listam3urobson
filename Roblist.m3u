@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1, Globo
+http://saturno.bucarestshop.online:2095/live/globo/chunks.m3u8?token=1724853158_8519102e49ebd37694179aef4039846434db2d2f
+#EXTINF:-1, TV BRASIL
+http://saturno.bucarestshop.online:2095http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8/chunks.m3u8?token=1724854765_6e8031d1a16a25f26837e278fc61f214e992d2f0
+#EXTINF:-1, Gloob
+http://saturno.bucarestshop.online:2095/live/gloob/chunks.m3u8?token=1724854838_801e20632eb852a16f7cadec0a66b42c9854a084
+#EXTINF:-1, Home Health
+http://saturno.bucarestshop.online:2095/live/homehealth/chunks.m3u8?token=1724854897_64bb43cee020e08506a596fd2c9ae8d157b82880
+#EXTINF:-1, TNT
+http://saturno.bucarestshop.online:2095/live2/tnt/chunks.m3u8?token=1724854953_0d4afab6aa5f44a2d04e2cf223f4aacd8645ea98
+#EXTINF:-1, Combate
+http://saturno.bucarestshop.online:2095/live3/combate/chunks.m3u8?token=1724855046_b38cc64eaf13f5029591b178eafec3dd51e8443c
+#EXTINF:-1, Fight Pass
+http://saturno.bucarestshop.online:2095/live2/fightpass/chunks.m3u8?token=1724855141_48f5fc012be5da20f5d0d070f11652faa83ae13c
+#EXTINF:-1, Band
+http://saturno.bucarestshop.online:2095/live/band/chunks.m3u8?token=1724855241_92f38a4a886e5b38801bb3822f49b3b64ba4ebee
+#EXTINF:-1, Record
+http://saturno.bucarestshop.online:2095/live/record/chunks.m3u8?token=1724855320_59335369fba73945bd2b3579718326bec6495fac
+#EXTINF:-1, SBT
+http://saturno.bucarestshop.online:2095/live/afazenda9/chunks.m3u8?token=1724855537_0da656a4e0e61f5371c402a7b2ee19a625805b09
+#EXTINF:-1, Discovery Kids
+http://saturno.bucarestshop.online:2095/live/discoverykids/chunks.m3u8?token=1724855597_f65a309ff62c9dc565312655f749d65fd18c6821
+#EXTINF:-1, Cartoon Network
+http://saturno.bucarestshop.online:2095/live/cartoonnetwork/chunks.m3u8?token=1724855663_790c1a26025971a6c55636a7ee13b505d54751d7
+#EXTINF:-1, Nickelodeon
+http://saturno.bucarestshop.online:2095/live/nickelodeon/chunks.m3u8?token=1724855711_9c5237fc0398cb7f8b8888c97cda06a47f95335d
+#EXTINF:-1, Animal Planet
+http://saturno.bucarestshop.online:2095/live/animalplanet/chunks.m3u8?token=1724855773_9122cf682c3e96e62d106ffb8b575f0203f35db2
+#EXTINF:-1, Nat Geo Wild
+http://saturno.bucarestshop.online:2095/live/natgeowild/chunks.m3u8?token=1724855831_0c2c5aec2202e62b8940af718a4bc7b5ddf579d1
+#EXTINF:-1, History
+http://saturno.bucarestshop.online:2095/live/history/chunks.m3u8?token=1724855885_db859f0dd6bc7ef79b1eccca1afd37ed4289487d
+#EXTINF:-1, Discovery Channel
+http://saturno.bucarestshop.online:2095/live/discoverychannel/chunks.m3u8?token=1724857852_8335319651e24c83dbd1a6408c58ce55efd8361f
+#EXTINF:-1, Discovery Turbo
+http://saturno.bucarestshop.online:2095/live/discoveryturbo/chunks.m3u8?token=1724857906_9b9ca257aa24eebf29fb667fdf92ee98e446db5f
+#EXTINF:-1, ID Investigação Discovery
+http://saturno.bucarestshop.online:2095/live/idinvestigacaodiscovery/chunks.m3u8?token=1724857965_01811f62cf308f97dc50dd45a8af6848ae7e33a4
+#EXTINF:-1, HBO
+http://saturno.bucarestshop.online:2095/live/hbo/chunks.m3u8?token=1724858024_ecdace79b17283d26eaac300f84b1042a2ac082b
+#EXTINF:-1, HBO 2
+http://saturno.bucarestshop.online:2095/live/hbo2/chunks.m3u8?token=1724858078_84eb69e0fd3a7e7e07e888ed35e32549666a0833
+#EXTINF:-1, FX
+http://saturno.bucarestshop.online:2095/live/fx/chunks.m3u8?token=1724858136_400c57a248f72b21066b369c131dac1e966d3686
+#EXTINF:-1, Space
+http://saturno.bucarestshop.online:2095/live2/space/chunks.m3u8?token=1724858209_b39f79103c9e9b7426b933dcda5528c13eea1f83
+#EXTINF:-1, TNT Series
+http://saturno.bucarestshop.online:2095/live/tntseries/chunks.m3u8?token=1724858256_dc8674db4edccbe8cb96f393774ce66407f8a95d
+#EXTINF:-1, Telecine Action
+http://saturno.bucarestshop.online:2095/live/telecineaction/chunks.m3u8?token=1724858310_a1f363d32e1dcf84e30c0c643dbf5df68fa2fa50
+#EXTINF:-1, Telecine Pipoca
+http://saturno.bucarestshop.online:2095/live/telecinepipoca/chunks.m3u8?token=1724858366_0921fe7cc14c39e11c0d4c294a960d40ff1f1603
+#EXTINF:-1, Telecine Premium
+http://saturno.bucarestshop.online:2095/live/telecinepremium/chunks.m3u8?token=1724858441_d6e1eba00d074706e250ac477bf99e82aa522268
+#EXTINF:-1, Warner Channel
+http://saturno.bucarestshop.online:2095/live/warnerchannel/chunks.m3u8?token=1724858503_4689addb8611310be6cd90df357b38fca79aa0db
+#EXTINF:-1, Universal Channel
+http://saturno.bucarestshop.online:2095/live/universalchannel/chunks.m3u8?token=1724858562_738f8a49612124372a3ae5ab605f0e876e798b41
+#EXTINF:-1, Megapix
+http://saturno.bucarestshop.online:2095/live/megapix/chunks.m3u8?token=1724858613_0eaa3bb217f4deb484e511d661c07bd87a56c2a9
+#EXTINF:-1, Disney Channel
+http://saturno.bucarestshop.online:2095/live/disneychannel/chunks.m3u8?token=1724858663_4e4c8f806ddc9f5fdeaeb257577e9e17e9ed1601
+#EXTINF:-1,AXN
+http://saturno.bucarestshop.online:2095/live/axn/chunks.m3u8?token=1724858709_c0ee86fc97eb64cb8913ba5a2dc9961fb9c22c35
+#EXTINF:-1,A&E
+http://saturno.bucarestshop.online:2095/live/ae/chunks.m3u8?token=1724858768_28a295645be22908d70f06ff924b6da7bd67325e
+#EXTINF:-1,TNT
+http://saturno.bucarestshop.online:2095/live2/tnt/chunks.m3u8?token=1724858816_3a67633151bd5477e4b980c64160a7b247e89eda
+#EXTINF:-1,Space
+http://saturno.bucarestshop.online:2095/live2/space/chunks.m3u8?token=1724858909_3fbfe101e57d5d97a2043876d17e73f57254d3f4
+#EXTINF:-1,Premiere Clubes
+http://saturno.bucarestshop.online:2095/live3/premiereclubes/chunks.m3u8?token=1724859039_2c859f8e9a2b911f4419e97ca7aa5be3b0347ffd
+#EXTINF:-1,Premiere 2
+http://saturno.bucarestshop.online:2095/live3/premiere2/chunks.m3u8?token=1724859099_0db7d096d3f10dd77ae54ad78b3a6c539ac6a678
+#EXTINF:-1,Premiere 3
+http://saturno.bucarestshop.online:2095/live3/premiere3/chunks.m3u8?token=1724859153_d0141bb88d4abacac17ec6ef59faafff093912b7
+#EXTINF:-1,Premiere 4
+http://saturno.bucarestshop.online:2095/live3/premiere4/chunks.m3u8?token=1724859199_16beb2cc155fd62878ccf1cb7ca08ed7809b8573
+#EXTINF:-1,Premiere 5
+http://saturno.bucarestshop.online:2095/live3/premiere5/chunks.m3u8?token=1724859255_fcc0b03c568bd5b2b31c63ba50881eaa43d3ab8a
+#EXTINF:-1,Premiere 6
+http://saturno.bucarestshop.online:2095/live3/premiere6/chunks.m3u8?token=1724859309_eda0c5af57d24fa2851a2e9f8617373c165f6725
+#EXTINF:-1,Premiere 7
+http://saturno.bucarestshop.online:2095/live3/premiere7/chunks.m3u8?token=1724859354_d9df18093f0a2f650a913a47533c2eb1a0f5e28b
+#EXTINF:-1,BandSports
+http://saturno.bucarestshop.online:2095/live2/bandsports/chunks.m3u8?token=1724859413_7a4876f1f19ce505c8b355a71694142e5de72d98
+#EXTINF:-1,Sportv
+http://saturno.bucarestshop.online:2095/live3/sportv/chunks.m3u8?token=1724859460_80bffc7c461ee33f903aeeb48e01829a52b080a7
+#EXTINF:-1,Sportv 2
+http://saturno.bucarestshop.online:2095/live2/sportv2/chunks.m3u8?token=1724859511_e6bb6512188c6aa1710578d2f5f4f4b3f8b000ec
+#EXTINF:-1,Sportv 3
+http://saturno.bucarestshop.online:2095/live2/sportv3/chunks.m3u8?token=1724859558_d0f580ac9191475f17dfec1dd6d3c9074276b205
+#EXTINF:-1,ESPN
+http://saturno.bucarestshop.online:2095/live3/espn/chunks.m3u8?token=1724859596_dbcb7b8ac9438357f81b36c91da5704a0bd95cfb
+#EXTINF:-1,ESPN 2
+http://saturno.bucarestshop.online:2095/live2/espn2/chunks.m3u8?token=1724859668_f9069e51c5dc09cd80fcf2566ff6f54029a6c042
+#EXTINF:-1,ESPN 4
+http://saturno.bucarestshop.online:2095/live2/espn4/chunks.m3u8?token=1724859725_c3ac9d8fc8c6aa399716c7314856ba8aef9ba48a
+#EXTINF:-1,Viva
+http://saturno.bucarestshop.online:2095/live/viva/chunks.m3u8?token=1724859823_b0cab77e4a7484a9b2636f7e9b5717bab1f9f16b
+#EXTINF:-1,Food Network
+http://saturno.bucarestshop.online:2095/live/foodnetwork/chunks.m3u8?token=1724859913_d579a0e98fd1f7fffbdc34f7d0277d9960bf2e96
+#EXTINF:-1,Multishow
+http://saturno.bucarestshop.online:2095/live/multishow/chunks.m3u8?token=1724859959_4180d36e377a3423b9d5245a6da8a082ecda83f0
