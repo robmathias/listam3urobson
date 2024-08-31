@@ -1,15 +1,12 @@
-http://saturno.bucarestshop.online:2095/live/globo/chunks.m3u8?token=1724853158_8519102e49ebd37694179aef4039846434db2d2f
+#EXTM3U
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="http://i.imgur.com/HG6Z5KR.jpg" group-title="FILMES/SERIES",SPACE HD
+http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/64
 
-http://saturno.bucarestshop.online:2095http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8/chunks.m3u8?token=1724854765_6e8031d1a16a25f26837e278fc61f214e992d2f0
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://i.imgur.com/HG6Z5KR.jpg" group-title="GLOBOSAT FILMES",SYFY HD
+http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/122
 
-http://saturno.bucarestshop.online:2095/live/gloob/chunks.m3u8?token=1724854838_801e20632eb852a16f7cadec0a66b42c9854a084
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://i.imgur.com/HG6Z5KR.jpg" group-title="GLOBOSAT FILMES",STUDIO UNIVERSAL HD
+http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/98
 
-http://saturno.bucarestshop.online:2095/live/homehealth/chunks.m3u8?token=1724854897_64bb43cee020e08506a596fd2c9ae8d157b82880
-
-http://saturno.bucarestshop.online:2095/live2/tnt/chunks.m3u8?token=1724854953_0d4afab6aa5f44a2d04e2cf223f4aacd8645ea98
-
-http://saturno.bucarestshop.online:2095/live3/combate/chunks.m3u8?token=1724855046_b38cc64eaf13f5029591b178eafec3dd51e8443c
-
-http://saturno.bucarestshop.online:2095/live2/fightpass/chunks.m3u8?token=1724855141_48f5fc012be5da20f5d0d070f11652faa83ae13c
-
-http://saturno.bucarestshop.online:2095/live/band/chunks.m3u8?token=1724855241_92f38a4a886e5b38801bb3822f49b3b64ba4ebee
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TELECINE TOUCH HD" tvg-logo="http://i.imgur.com/HG6Z5KR.jpg" group-title="GLOBOSAT FILMES",TELECINE TOUCH HD
+http://msdo.iptvsystem.cloud:80/E0P2u5yN0/HoAMr2Keb/14
